@@ -1,4 +1,5 @@
 // Constructor Pattern for Creating Objects
+// important example
 
 function Fruit (theColor, theSweetness, theFruitName, theNativeToLand) {
 	
