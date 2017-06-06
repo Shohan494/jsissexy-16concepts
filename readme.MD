@@ -15,7 +15,6 @@ The sixteen concepts that every modern JavaScript developer should know well fol
 - Learn HTML5, CSS3, and Responsive WebSite Design
 - Object Oriented JavaScript (OOP in JavaScript)
 - Learn Node.js Completely and With Confidence Or Learn Meteor.js Properly
-
 - JavaScript Custom Events with PubSub (coming soon)
 - Unit Testing Your JavaScript Applications is Essential
 - DOM (Document Object Model) and BOM (Browser Object Model)
